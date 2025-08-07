@@ -1,4 +1,4 @@
-import React, { type ChangeEvent } from "react";
+import { type ChangeEvent } from "react";
 import { useTheme } from "./ThemeProvider";
 
 export default function ModeToggle() {
